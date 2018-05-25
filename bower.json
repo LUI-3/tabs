@@ -1,0 +1,24 @@
+{
+  "name": "LUI-3_tabs",
+  "homepage": "https://github.com/LUI-3/tabs",
+  "authors": [
+    "wufiii@gmail.com"
+  ],
+  "description": "Responsive front-end website framework - Tabs component",
+  "main": "less/tabs.router.less",
+  "keywords": [
+    "responsive",
+    "front-end",
+    "framework",
+    "website",
+    "web"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
